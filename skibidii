@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kokojoscripts/Fischltof/refs/heads/main/LT%20FISCH", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iminreality/Allux/refs/heads/main/Fish_GrabXP.lua"))()
